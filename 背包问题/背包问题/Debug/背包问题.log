@@ -1,0 +1,5 @@
+﻿  背包问题.cpp
+c:\users\黄铭晖\documents\visual studio 2017\projects\背包问题\背包问题\背包问题.cpp(21): error C2369: “w”: 重定义；不同的下标
+  c:\users\黄铭晖\documents\visual studio 2017\projects\背包问题\背包问题\背包问题.cpp(13): note: 参见“w”的声明
+c:\users\黄铭晖\documents\visual studio 2017\projects\背包问题\背包问题\背包问题.cpp(21): error C2369: “v”: 重定义；不同的下标
+  c:\users\黄铭晖\documents\visual studio 2017\projects\背包问题\背包问题\背包问题.cpp(14): note: 参见“v”的声明
